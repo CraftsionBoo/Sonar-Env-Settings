@@ -71,9 +71,9 @@ roslaunch nps_uw_multibeam_sonar local_search_blueview_p900_nps_multibeam_ray.la
 ```
 ![Ray Simulation](assets/ray.png)
 
-## Troubleshooting
+## FAQ
 
-### Q1: Missing libgazebo_ros_velodyne_gpu_laser.so Depen
+### Q1: Missing libgazebo_ros_velodyne_gpu_laser.so
 ```bash
 # This library file is not included in the program. You can:
 # 1. Search for libgazebo_ros_velodyne_gpu_laser.so in existing docker version
